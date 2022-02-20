@@ -28,13 +28,13 @@ Alternatively, the package can be installed directly from github, in this case t
 To install from github directly from Github:
 
 Requirements:
-`pip install -r https://raw.githubusercontent.com/PSenck/biomoni/main/Requirements.txt`
+`pip install -r https://raw.githubusercontent.com/PSenck/Biomonitoring/main/Requirements.txt`
 
 For dash: 
-`pip install -r https://raw.githubusercontent.com/PSenck/biomoni/main/Requirements_dash.txt`
+`pip install -r https://raw.githubusercontent.com/PSenck/Biomonitoring/main/Requirements_dash.txt`
 
 biomoni:
-`pip install -e git+https://github.com/PSenck/biomoni.git#egg=biomoni`
+`pip install -e git+https://github.com/PSenck/Biomonitoring.git#egg=biomoni`
 
 
 
